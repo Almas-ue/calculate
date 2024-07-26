@@ -33,7 +33,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  text-align: right;
+  text-align: center;
   width: 62px;
   height: 62px;
   border: 0;
